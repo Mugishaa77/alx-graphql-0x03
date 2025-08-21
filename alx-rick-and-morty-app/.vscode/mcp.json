@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "Sentry": {
+      "url": "https://mcp.sentry.dev/mcp/datadrive-africa-ko/javascript-nextjs",
+      "type": "http"
+    }
+  }
+}
